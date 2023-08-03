@@ -42,6 +42,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ### Links
 
-- Solution URL: (https://github.com/Mohamedsalahmsa/Notification-page/)
+- Solution URL: (https://github.com/Mohamedsalahmsa/crowdfunding-product-page-main)
 - Live Site URL: (https://mohamedsalahmsa.github.io/Notification-page/)
 
